@@ -18,6 +18,10 @@
 
 ### Запуск
 
-Игра доступна по ссылке:
+Приложение доступно по ссылке:https://lisichkin1.github.io/L2-Wildberries_Visualization_sorting/
 
 Для локального запуска необходимо установить расширение Live Server и через него запустить index.html
+
+### Демо
+
+![2023-12-24 20-39-05](https://github.com/lisichkin1/L2-Wildberries_Visualization_sorting/assets/91782961/4ffe6380-54e1-4e4a-a0d4-9b82bd4be97f)
