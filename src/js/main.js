@@ -1,5 +1,5 @@
 import { delay, renderDivs, resetArr } from './utils.js';
-
+import '../assets/styles/style.css';
 let array = [];
 const bubbleButton = document.querySelector('.bubble');
 const insertionButton = document.querySelector('.insertion');
@@ -23,10 +23,10 @@ const Compare = {
 };
 
 const userInputArray = () => {
-  array = userInput.value.split(' ');
+  array = userInput.value.split(' ').map(Number);
   renderDivs(null, null, array);
 };
-
+//10 50 100 900 700 400 200 400 300
 const stopLoop = () => {
   isRunning = false;
 };
@@ -82,6 +82,7 @@ const bubbleSort = async () => {
   }
   currentItem = 0;
   isSorting = false;
+  console.log(array);
 };
 
 //Insertion sort
