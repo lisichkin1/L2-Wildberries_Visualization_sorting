@@ -23,6 +23,7 @@
 
 ### Запуск
 
+<<<<<<< HEAD
 Приложение доступно по [ссылке](https://lisichkin1.github.io/L2-Wildberries_Visualization_sorting/)
 
 Для локального запуска выполните следующие шаги:
@@ -44,6 +45,11 @@ npm install
 ```
 npm run start
 ```
+=======
+Приложение доступно по ссылке:https://lisichkin1.github.io/L2-Wildberries_Visualization_sorting/
+
+Для локального запуска необходимо установить расширение Live Server и через него запустить index.html
+>>>>>>> b4b4cecef1df2b1b332e4d74fa5f615e2a750977
 
 ### Демо
 
